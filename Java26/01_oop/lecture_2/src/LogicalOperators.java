@@ -23,7 +23,7 @@ public class LogicalOperators {
         System.out.println("-- OR --");
         System.out.println(true || true);
         System.out.println(true || false);
-        System.out.println(!true || true);
+        System.out.println(!true || false);
 
     }
 }
